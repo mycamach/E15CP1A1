@@ -95,3 +95,4 @@ Pictory es una aplicación para que diversos usuarios guarden sus historias y pu
 	> Utilizar current_user para guardar el dato en la base de datos en el método create.
 
 - Crear vista con las historias que le pertenecen al usuario.
+# clase29
